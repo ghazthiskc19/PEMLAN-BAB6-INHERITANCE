@@ -1,4 +1,3 @@
-
 public class Manager extends Pekerja{
     private String departemen;
 
